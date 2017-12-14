@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+it is a strange world of branches around the family tree 
