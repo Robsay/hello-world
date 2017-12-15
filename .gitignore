@@ -1,0 +1,9 @@
+# Virtualenv
+.Python
+Scripts
+bin
+lib
+include
+*.py[cod]
+tcl
+.ptvs
